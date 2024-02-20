@@ -2,7 +2,7 @@
 
 Download these files in a folder.
 
-=> Go to your browser extesnion setting.
+=> Go to your browser extension setting.
 
 => Turn on developer mode.
 
