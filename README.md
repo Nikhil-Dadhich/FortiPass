@@ -2,7 +2,7 @@
 
 Download these files in a folder.
 
-=> Go to [Chrome](chrome://extensions/) and [Edge](edge://extensions/).
+=> Go to [Chrome](chrome://extensions/) or [Edge](edge://extensions/).
 
 => Turn on developer mode.
 
